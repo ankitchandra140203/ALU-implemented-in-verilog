@@ -1,4 +1,5 @@
 # ALU implemented in verilog
+## Problem statement(refer to the attached pdf) ->
   It performs arithmetic operations and logical operations on binary data.
 
   ## Let's break the code ->
